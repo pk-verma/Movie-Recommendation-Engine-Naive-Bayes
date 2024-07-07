@@ -1,1 +1,1 @@
-# Movie-Recommendation-Engine-Niave-Bayes
+# Movie-Recommendation-Engine-Naive-Bayes
